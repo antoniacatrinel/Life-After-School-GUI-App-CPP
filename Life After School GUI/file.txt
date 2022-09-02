@@ -1,0 +1,12 @@
+carrer fest,career event in cluj-napoca,29/10/2022,10:30,5029,https://www.targuldecariere.ro/cluj-global
+transylvania international film festival,film festival in cluj-Napoca,17/06/2022,17:00,3019,https://tiff.ro/en
+sports festival,festival in cluj-napoca,09/06/2022,09:00,10003,https://www.sportsfestival.com/
+untold,music festival in cluj-napoca,04/08/2022,16:00,650003,https://untold.com
+festival de cannes,aaa,17/05/2022,20:00,35000,https://www.festival-cannes.com/en
+european games,sports competition in poland,21/06/2023,14:00,250000,https://www.european-games.org/european-games-2023/
+electric castle,music festival in cluj-napoca,13/07/2022,18:00,45000,https://electriccastle.ro/
+st. patrick's day,parade in ny,17/03/2022,8:00,350006,https://www.nycstpatricksparade.org/
+venice international film festival,film festival in italy,31/08/2022,19:45,4001,https://www.labiennale.org/en/cinema/2022
+transylvania open,tennis tournament in cluj-napoca,23/10/2022,14:30,15002,https://transylvaniaopen.ro/ro/
+special olympics world games,sports competition in berlin,17/07/2024,13:30,80000,https://www.specialolympics.org
+indagra food,cooking festival in bucharest,26/10/2022,12:10,10001,https://www.indagra-food.ro/ro/
